@@ -96,7 +96,7 @@ Zorg dat deze vinkjes aanstaan.
 8. Nu kan je builden en het op de Oculus Quest runnen.
 
 <img src="https://user-images.githubusercontent.com/55400627/95660379-ada78880-0b27-11eb-90d4-2b3a50464711.png" width="600" />
-
+</details>
 
 
 
